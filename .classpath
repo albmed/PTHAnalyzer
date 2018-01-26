@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="JavaSource"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/org.eclipse.swt"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/PTH_LA_LIB"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
